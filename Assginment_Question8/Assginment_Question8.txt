@@ -1,0 +1,3 @@
+Q=> 8. Write a SQL query to find the age is less than 30 and name start with S
+
+Ans=> SELECT * FROM Customers WHERE age<30 AND CustomerName LIKE 'S%';

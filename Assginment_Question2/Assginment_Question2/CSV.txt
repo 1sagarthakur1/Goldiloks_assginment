@@ -1,0 +1,4 @@
+Sagar,thakur,21,Bhopal,Student
+Mohit,sahu,23,Berasia,Student
+Rohan,thakur,54,Bhopal,Teacher
+Sonu,kumar,89,chandighar,Student
